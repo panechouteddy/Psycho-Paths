@@ -1,0 +1,4 @@
+SensivityScale 1.2
+GlobalVolume 2
+MusicVolume 1
+SfxVolume 1

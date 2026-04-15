@@ -1,0 +1,12 @@
+Gauche 81 -1
+Droite 68 -1
+Haut 90 -1
+Bas 83 -1
+Sauter 32 0
+S'accroupir 162 9
+Sprinter 160 8
+Allumer(Lumiere) 70 5
+Recharger(Lumiere) 82 2
+Pause 27 7
+Interagir 69 1
+Inventaire 73 3
